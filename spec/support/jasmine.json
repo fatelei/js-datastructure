@@ -1,0 +1,11 @@
+{
+  "spec_dir": "spec",
+  "spec_files": [
+    "test_heap.js",
+    "test_stack.js",
+    "test_circular_queue.js"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ]
+}
